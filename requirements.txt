@@ -1,0 +1,5 @@
+cx-Oracle==5.2
+raven
+requests
+dataset==0.6.0
+flask-classy
